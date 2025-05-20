@@ -1,0 +1,1 @@
+SELECT cno,cname,loc,sal,ROUND(sal) AS salary FROM DEV.CUST WHERE SAL < 70000
